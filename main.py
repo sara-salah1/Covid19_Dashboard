@@ -163,7 +163,7 @@ app.layout = html.Div([
             html.Div([
                 html.H3("Coronavirus Outbreak Global Cases Monitor", style={"margin-bottom": "0px", 'color': 'white'}),
                 html.H5(
-                    "This dashboard offers real-time COVID-19 data and visualizations for a comprehensive "
+                    "This dashboard offers COVID-19 data and visualizations for a comprehensive "
                     "overview of the global situation.",
                     style={"margin-top": "0px", 'color': '#FFD1E3'}),
             ])
@@ -202,7 +202,9 @@ app.layout = html.Div([
             html.H6(children='Active Cases',
                     style={'textAlign': 'center', 'color': 'white'}),
             html.P(total_Active,
-                   style={'textAlign': 'center', 'color': '#A367B1', 'fontSize': 40})
+                   style={'textAlign': 'center', 'color': '#A367B1', 'fontSize': 40}),
+            html.P('new: 0',
+                   style={'textAlign': 'center', 'color': '#FFD1E3', 'fontSize': 15, 'margin-top': '-18px'})
         ], className="card_container three columns"),
     ], className="row"),
 
