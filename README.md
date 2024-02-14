@@ -1,8 +1,7 @@
 # COVID-19 Data Analysis and Visualization
 
 ## Overview
-This project focuses on analyzing and visualizing COVID-19 pandemic data using Python libraries such as Plotly and Dash. 
-
+This project aims to provide users with intuitive tools to explore and interpret COVID-19 data in a meaningful way. By harnessing the power of Plotly's interactive visualizations and Dash's flexible dashboard framework, users can gain insights.
 
 ## Table of Contents
 
