@@ -42,11 +42,3 @@ The goal is to provide insights into the spread and impact of the virus across v
 
 ![Screenshot 2024-02-14 155233](https://github.com/sara-salah1/Covid19_Dashboard/assets/67710906/aab8f1f0-e978-4d43-9491-353a5abd15f7)
 
-
-
-## Contributing
-Contributions to this project are welcome! Feel free to fork this repository, make changes, and submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
-
-
-
-
