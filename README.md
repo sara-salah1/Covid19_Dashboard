@@ -8,7 +8,7 @@ This project aims to provide users with intuitive tools to explore and interpret
 - [Introduction](#introduction)
  - [Features](#features)
 - [Usage](#usage)
-- [Contribution](#contribution)
+- [Screenshots](#Screenshots)
 
 ## Introduction
 The goal is to provide insights into the spread and impact of the virus across various regions and time periods through interactive visualizations and data analysis techniques.
