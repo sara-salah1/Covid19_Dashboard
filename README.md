@@ -33,7 +33,7 @@ The goal is to provide insights into the spread and impact of the virus across v
 
 ## Screenshots
 
-![Screenshot 2024-02-14 155133](https://github.com/sara-salah1/Covid19_Dashboard/assets/67710906/fe711066-11e5-4a38-b4a6-8ec694d3d804)
+![Screenshot 2024-02-14 161027](https://github.com/sara-salah1/Covid19_Dashboard/assets/67710906/2c44399a-3b20-4d14-8415-265620ea9c6d)
 
 ![Screenshot 2024-02-14 155150](https://github.com/sara-salah1/Covid19_Dashboard/assets/67710906/72ea3224-b73f-49e0-9cf6-22b432e730ec)
 
