@@ -208,6 +208,8 @@ app.layout = html.Div([
 
     html.Div([
         html.Div([
+            html.H5(children='Select Country: ',
+                    style={'textAlign': 'left', 'color': 'white'}),
             dcc.Dropdown(
                 id='country_dropdown',
                 options=country_options,
