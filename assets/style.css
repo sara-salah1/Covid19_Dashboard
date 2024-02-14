@@ -1,0 +1,85 @@
+
+
+body {
+  background-color: #1F2544;
+  margin: 5%;
+}
+
+.card_container {
+  border-radius: 5px;
+  background-color: #2D3250;
+  margin: 20px;
+  padding: 15px;
+  position: relative;
+  box-shadow: 2px 2px 2px #1f2c56;
+}
+.cad_container p{
+ margin-top:10px
+}
+
+.create_container {
+  border-radius: 5px;
+  background-color: #2D3250;
+  margin: 18px;
+  padding: 15px;
+  position: relative;
+}
+
+.create_container1 {
+  border-radius: 5px;
+  background-color: #2D3250;
+  margin: 10px;
+  padding: 15px;
+  position: relative;
+  box-shadow: 2px 2px 2px #1f2c56;
+}
+.create_container1 p{
+    font-weight: bold;
+
+
+}
+.row_container{
+border-radius: 5px;
+  background-color: #2D3250;
+  margin: 10px;
+  padding: 15px;
+  position: relative;
+  box-shadow: 2px 2px 2px #1f2c56;
+}
+
+.flex-display {
+  display: flex;
+}
+
+.container-display {
+  display: flex;
+}
+.vis1 {
+    width: 49%;
+    float: left;
+    margin-right: 1%;
+}
+
+.vis2 {
+    width: 49%;
+    float: left;
+}
+
+.daily_trends{
+    width: 49%;
+    float: left;
+    margin-right: 1%;
+}
+.daily_changes{
+    width: 49%;
+    float: left;
+}
+.daily{
+ border-radius: 5px;
+  background-color: #2D3250;
+  margin: 10px;
+  padding: 15px;
+  position: relative;
+  box-shadow: 2px 2px 2px #1f2c56;
+
+}
